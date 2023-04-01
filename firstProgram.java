@@ -8,6 +8,7 @@ public class firstProgram {
 =======
                 System.out.println("hello Im learning GIT");
 		System.out.println("hello neewbies");
+		System.out.println("Hello World");
 >>>>>>> dev
 
 	}
